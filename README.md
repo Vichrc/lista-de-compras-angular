@@ -23,4 +23,4 @@ A aplicação foi construída com o framework Angular 19, utilizando boas práti
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/Vichrc/lista-de-compras-angular/
